@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <index>
 	<info>
-		<name>Your Content</name>
+		<name>Core Content</name>
 		<update version="1.0.0">
 			<file name="user-cobl.index" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-cobl.index" />
 		</update>
