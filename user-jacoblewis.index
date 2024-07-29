@@ -3,11 +3,11 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-jacoblewis.index" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-jacoblewis.index" />
+			<file name="user-Cobl.index" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-Cobl.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-jacoblewis/120456_Official_Only.xml" />
+		<file name="120456__Official_only.xml" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-Cobl/120456_Official_Only.xml" />
 
 	</files>
 </index>
