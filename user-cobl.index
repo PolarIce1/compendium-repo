@@ -3,11 +3,11 @@
 	<info>
 		<name>Your Content</name>
 		<update version="1.0.0">
-			<file name="user-yourname.index" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname.index" />
+			<file name="user-cobl.index" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-cobl.index" />
 		</update>
 	</info>
 	<files>
-		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file1.xml" />
-		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+		<file name="120456_Official_Only.xml" url="https://raw.githubusercontent.com/PolarIce1/compendium-repo/master/user-cobl/120456_Official_Only.xml" />
+
 	</files>
 </index>
